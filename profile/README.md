@@ -1,7 +1,8 @@
-#  <img src="https://user-images.githubusercontent.com/61543012/194726852-f0030ee1-51d3-4d17-8105-b34364288223.png" height="35" width="35" align-items="center" justify-content="center" /> BitRockets
+#  <img src="https://user-images.githubusercontent.com/61543012/194739864-e43dadd1-a5b6-405e-a73d-68881f9861f4.png" height="35" width="35" align-items="center" justify-content="center" /> BitRockets
 A third-party integration for EV's in order to offset the price of charging with the gas used in smart contracts. Depending on the configuration and future patches gas cost can be entirely reduced.
 
 ## Blockchain meets EV technology
+🏳️🏁🏎️🚘🚨🚗⛽
 
 😡 Frustrated? Can't seem to buy before the blast-off? 
 

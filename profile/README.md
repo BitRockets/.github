@@ -2,14 +2,13 @@
 A third-party integration for EV's in order to offset the price of charging with the gas used in smart contracts. Depending on the configuration and future patches gas cost can be entirely reduced.
 
 ## Blockchain meets EV technology
-🏳️🏁🏎️🚘🚨🚗⛽
 
-😡 Frustrated? Can't seem to buy before the blast-off? 
+🏎️ Be the FIRST to get the latest and the greatest.
 
-❓ Use pre-built queries or custom queries, even third-party queries from other dapps.
+🚨 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
 
-🔺 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+⛽ Use pre-built queries or custom queries, even third-party queries from other dapps.
 
-🚩 Be the FIRST to get the latest and the greatest.
+🏁 Frustrated? Can't seem to buy before the blast-off? 
 
 #### [An ECE Dapp](https://github.com/eliascharlese)

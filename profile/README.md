@@ -11,4 +11,4 @@ A third-party integration for EV's in order to offset the price of charging with
 
 🏁 Complete your trips in record time and minimize your charge-time.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
